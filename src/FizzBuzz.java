@@ -6,7 +6,7 @@ class FizzBuzz {
     public static void main(String[] args) {
 
         int i = 0;
-        int a = 32;
+        int a = 31;
         while (i < 100) {
 
             i = doFizzBuzz(i);
